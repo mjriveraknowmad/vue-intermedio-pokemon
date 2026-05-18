@@ -1,6 +1,24 @@
-# composition-app
+# Vue Intermedio Pokemon
 
-This template should help get you started developing with Vue 3 in Vite.
+Puntos tratados:
+
+- Vue Router 4+
+- Script Setup
+- Separar archivos de un componente de Vue
+- RouterView, RouterLink
+- Composable Functions, con estado global y estado local
+- Suspense y fallback
+- Async Script Setup Components
+- Tanstack - VueQuery , prefetching , invalidación de caché...
+- useQuery
+- Tipado de respuestas HTTP
+- Estado global reactivo
+- Reactive Store
+- DevTools
+...
+
+
+Créditos: Curso de Vue Intermedio de Fernando Herrera https://udemy.com/course/vue-intermedio/learn/lecture/39256624
 
 ## Recommended IDE Setup
 
